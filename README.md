@@ -1,2 +1,2 @@
 # applications
-custom OpenFOAM apllications
+custom OpenFOAM applications
