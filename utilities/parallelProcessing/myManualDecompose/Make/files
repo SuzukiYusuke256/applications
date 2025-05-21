@@ -1,0 +1,3 @@
+myDecompose.C
+
+EXE = $(FOAM_APPBIN)/myManualDecompose
