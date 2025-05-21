@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# compiled binaries in Make folders
+*Opt/
+

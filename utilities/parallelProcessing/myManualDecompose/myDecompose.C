@@ -42,8 +42,6 @@ int main(int argc, char *argv[])
 	const vector Nb(mmdDict.get<vector>("baseRegionDivision"));  // division number of baseRegion
 	const vector Nf(mmdDict.get<vector>("fineRegionDivision"));  // division number of fineRegion
 
-	Info << baseRegionMin[0] << endl;
-
 	// Write
 	labelList procIds(mesh.cells().size());
 
